@@ -18,7 +18,7 @@
 			<article class="main"></article>
 		</section>
 		<footer>
-			<p>aki va el footer de francisco</p>
+			<p>aki va el footer de la aplicacion</p>
 		</footer>
 		<script type="text/javascript">
 			var pageData = '';
