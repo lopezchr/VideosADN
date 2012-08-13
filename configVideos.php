@@ -1,5 +1,8 @@
 <?
-
+	$vPrincipal = array(
+		'mi video##miniaturas/imagen1.jpg##videos/cartera3',
+		'mi video##miniaturas/imagen1.jpg##videos/cartera3'
+	);
 	$vContabilidad = array(
 		'nombre del video1##miniaturas/imagen1.jpg##videos/cartera3',
 		'nombre del video1##miniaturas/imagen1.jpg##videos/contabilidad/video2',
