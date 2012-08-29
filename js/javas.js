@@ -20,7 +20,7 @@ $(document).ready(function(){
 
 			//se genera el codigo para mostrar el video
 			var cod = '<video controls="controls" id="actualvideo">';
-			cod += '<source src="'+urlVid+'.mp4" type="video/mp4" /><source src="'+urlVid+'.ogg" type="video/mp4" />';
+			cod += '<source src="'+urlVid+'.mp4" type="video/mp4" /><source src="'+urlVid+'.ogg" type="video/ogg" />';
 			cod += 'Video no soportado.</video>';
 
 			$("section#galleryVideo").html(cod);
